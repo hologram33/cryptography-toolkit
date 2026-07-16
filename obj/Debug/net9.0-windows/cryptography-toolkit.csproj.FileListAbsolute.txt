@@ -1,0 +1,15 @@
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\bin\Debug\net9.0-windows\cryptography-toolkit.exe
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\bin\Debug\net9.0-windows\cryptography-toolkit.deps.json
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\bin\Debug\net9.0-windows\cryptography-toolkit.runtimeconfig.json
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\bin\Debug\net9.0-windows\cryptography-toolkit.dll
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\bin\Debug\net9.0-windows\cryptography-toolkit.pdb
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\cryptography-toolkit.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\cryptography-toolkit.AssemblyInfoInputs.cache
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\cryptography-toolkit.AssemblyInfo.cs
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\cryptography-toolkit.csproj.CoreCompileInputs.cache
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\cryptography-toolkit.sourcelink.json
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\cryptography-toolkit.dll
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\refint\cryptography-toolkit.dll
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\cryptography-toolkit.pdb
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\cryptography-toolkit.genruntimeconfig.cache
+D:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\obj\Debug\net9.0-windows\ref\cryptography-toolkit.dll
