@@ -1,0 +1,15 @@
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\bin\Debug\net9.0-windows\CryptographyToolkit.exe
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\bin\Debug\net9.0-windows\CryptographyToolkit.deps.json
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\bin\Debug\net9.0-windows\CryptographyToolkit.runtimeconfig.json
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\bin\Debug\net9.0-windows\CryptographyToolkit.dll
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\bin\Debug\net9.0-windows\CryptographyToolkit.pdb
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\CryptographyToolkit.GeneratedMSBuildEditorConfig.editorconfig
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\CryptographyToolkit.AssemblyInfoInputs.cache
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\CryptographyToolkit.AssemblyInfo.cs
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\CryptographyToolkit.csproj.CoreCompileInputs.cache
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\CryptographyToolkit.sourcelink.json
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\CryptographyToolkit.dll
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\refint\CryptographyToolkit.dll
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\CryptographyToolkit.pdb
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\CryptographyToolkit.genruntimeconfig.cache
+d:\ProiectePersonale\CryptographyToolkit\cryptography-toolkit\CryptographyToolkit\obj\Debug\net9.0-windows\ref\CryptographyToolkit.dll
