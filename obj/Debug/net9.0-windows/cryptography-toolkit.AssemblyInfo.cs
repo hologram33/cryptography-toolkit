@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cryptography-toolkit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81c1e45537b6f504dd37be4bf4f9a1c00e525074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+131fc76588fd42bc725b3f85ec5ae5f630555db6")]
 [assembly: System.Reflection.AssemblyProductAttribute("cryptography-toolkit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cryptography-toolkit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
