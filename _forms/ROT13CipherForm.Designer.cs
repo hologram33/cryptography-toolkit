@@ -1,6 +1,6 @@
 namespace cryptography_toolkit;
 
-partial class ROT13Form
+partial class ROT13CipherForm
 {
     private System.ComponentModel.IContainer components = null;
 
@@ -100,7 +100,7 @@ partial class ROT13Form
         Controls.Add(button_Transform);
         Controls.Add(button_Clear);
 
-        Name = "ROT13Form";
+        Name = "ROT13CipherForm";
         Text = "ROT13 Cipher";
 
         ResumeLayout(false);

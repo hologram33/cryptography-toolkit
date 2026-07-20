@@ -1,9 +1,9 @@
 using cryptography_toolkit._algorithms;
 namespace cryptography_toolkit;
 
-public partial class ROT13Form : Form
+public partial class ROT13CipherForm : Form
 {
-    public ROT13Form()
+    public ROT13CipherForm()
     {
         InitializeComponent();
     }
@@ -16,7 +16,7 @@ public partial class ROT13Form : Form
             return;
         }
 
-        textBox_Output.Text = ROT13.Transform(textBox_Input.Text, key);
+        textBox_Output.Text = ROT13Cipher.Transform(textBox_Input.Text, key);
     }
 
     private void onClickButton_Clear(object sender, EventArgs e)

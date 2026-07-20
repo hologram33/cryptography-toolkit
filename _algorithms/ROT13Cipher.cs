@@ -2,7 +2,7 @@ using System.Runtime.CompilerServices;
 
 namespace cryptography_toolkit._algorithms;
 
-public static class ROT13
+public static class ROT13Cipher
 {
     public static string Transform(string text, int key)
     {
